@@ -36,7 +36,7 @@ from helpers import download_file, retrieve_url
 
 class demonoid(object):
     """ Search engine class """
-    url = "https://www.demonoid.pw"
+    url = "https://www.demonoid.cc"
     name = "Demonoid"
     supported_categories = {'all': '0',
                             'music': '2',
